@@ -23,7 +23,7 @@ Trend Monitoring: Keep an eye on `current and upcoming trends` to ensure our con
 
 ### The right candidate will have:
 
-* Amazing editing skills and an interest for all things video
+* `Amazing editing skills` and an interest for all things video
 * 3+ years experience in working in a similar role (agency, freelance, post-house etc.)
 * Strong `time and project management` skills
 * Excellent `attention to detail`
@@ -50,14 +50,16 @@ An `entrepreneurial spirit` and enjoy taking the lead on projects
 
 ### Studio Location
 
-8 Shore, Leith - right on the waterfront in the centre of Edinburgh’s most creative community.
+>[!NOTE]  
+8 Shore, Leith  
+right on the waterfront in the centre of Edinburgh’s most creative community.
 
 
 ### Salary & Benefits
 
-Expected Start Date: March/April 2026
-Starting Salary: £30,000 - £33,000 per annum (Salary is DOE, which can increase based on performance and time within the team.)
-5% company contributions to workplace pension scheme
+* Expected Start Date: `March/April 2026`
+* Starting Salary: `£30,000 - £33,000` per annum (Salary is DOE, which can increase based on performance and time within the team.)
+* 5% company contributions to workplace pension scheme
 
 
 ### How to Apply
