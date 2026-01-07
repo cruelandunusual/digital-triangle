@@ -3,5 +3,5 @@ Thumbs.db
 **/.vs/
 # prevent the original CV and letter document files from being tracked.
 docs/
-Peter Smith BG cover letter.pdf
+Peter Smith DT cover letter.pdf
 Peter Smith CV.pdf
