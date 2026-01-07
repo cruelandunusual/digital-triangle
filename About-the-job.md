@@ -34,13 +34,13 @@ Trend Monitoring: Keep an eye on `current and upcoming trends` to ensure our con
 
 ### The skills we need:
 
-Expert in the `Adobe Creative Suite` (particularly `Premiere Pro`)
-Solid experience of editing and delivering branded content
-Strong `colour matching, correction & grading skills`
-An `ear for music` and the ability to select and `edit to different production music`
-Autonomously `managing post-production` and creative direction
-Excellent `interpersonal and communication` skills
-An `entrepreneurial spirit` and enjoy taking the lead on projects
+* Expert in the `Adobe Creative Suite` (particularly `Premiere Pro`)
+* Solid experience of editing and delivering branded content
+* Strong `colour matching, correction & grading skills`
+* An `ear for music` and the ability to select and `edit to different production music`
+* Autonomously `managing post-production` and creative direction
+* Excellent `interpersonal and communication` skills
+* An `entrepreneurial spirit` and enjoy taking the lead on projects
 
 
 ### Flexible Working
