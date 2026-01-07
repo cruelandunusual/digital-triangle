@@ -44,8 +44,8 @@ An `entrepreneurial spirit` and enjoy taking the lead on projects
 
 
 ### Flexible Working
-
-We will always aim to be as flexible as possible with working hours, days, locations etc, but due to the nature of some of our jobs there will be times where we need to be in the studio, away on location or sometimes work outside of normal hours. This role will predominantly be studio based with the potential to travel within the UK and abroad.
+> [!NOTE]  
+> We will always aim to be as flexible as possible with working hours, days, locations etc, but due to the nature of some of our jobs there will be times where we need to be in the studio, away on location or sometimes work outside of normal hours. This role will predominantly be studio based with the potential to travel within the UK and abroad.
 
 
 ### Studio Location
