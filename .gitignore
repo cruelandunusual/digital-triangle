@@ -1,5 +1,5 @@
 Thumbs.db
 .vs
 **/.vs/
-# prevent the original CV and letter .odt document files from being tracked.
+# prevent the original CV and letter .odt document files from being tracked, as well as the job description markdown file.
 docs/
