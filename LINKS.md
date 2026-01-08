@@ -31,7 +31,7 @@ The client had a minimal graphics budget here; I used their abstract black cube 
 >[Education Scotland - Outdoor Learning](https://youtu.be/rRa7cL7VpGE)  
 A transcript of this video might read as though only one person was speaking throughout, which is appropriate in this case since all the interviewees express the same opinion.  
 [NHS Education for Scotland - Mobile Skills Unit Testimonial](https://youtu.be/xj1KGAnKtWM) _(interviewees filmed during lockdown over Teams)_  
-This is another example where the participants are closely intercut.  
+This is another example where the participants are closely intercut, at times seeming to continue each other's sentences.  
 
 ### _On-brand graphics:_  
 >[Napier Innovation Hub - Coghmear](https://youtu.be/Cw7e0ic7Ey4)  
@@ -65,9 +65,9 @@ I used the audio of the hot air balloons at the start for the astronaut's breath
 
 ## Playlist of other work  
 > [Playlist of complete films](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)  
-> A YouTube playlist of complete videos made during my time as an inhouse editor.  
-> [Showreel](https://youtu.be/j3nW8g24qeg)  
-> A one minute showreel with some samples of work from the last few years; the music has been edited with effects and processing added in Ableton Live and Adobe Audition.  
+A YouTube playlist of complete videos made during my time as an inhouse editor.  
+[Showreel](https://youtu.be/j3nW8g24qeg)  
+A one minute showreel with some samples of work from the last few years; the music has been edited with effects and processing added in Ableton Live and Adobe Audition.  
 
 ---
 
