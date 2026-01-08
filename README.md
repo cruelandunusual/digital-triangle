@@ -48,18 +48,16 @@ Having edited professionally for 20 years, I am a highly adaptable editor with a
 >At times I have worked to challenging deadlines; [this annual review video for Scottish Enterprise](https://youtu.be/OnoYiEk2ZnE) was recut in a single night _(!)_ when the client didn't like the v1 of the original brief. The re-edit repurposed the original footage (the black and white shots of SE employees) along with shots from SE's library and some stock shots. The entire re-edit was constructed around Max Richter's Recomposition of Vivaldi's Summer, to dramatic effect.  
 
 ### Team working  
-I have strong written and speaking communication skills and am always conscious of my audience and their level of technical expertise.  
-
-Having made videos for a variety of clients from different industries and sectors, I have demonstrated a strong ability to quickly absorb and understand information relating to subjects where I have limited or non-specialist knowledge. Because of this, I feel I am particularly capable of distilling and communicating complex information to wide audiences.  
+I am more than capable of editing on my own - [I edited this 32 minute documentary](https://youtu.be/x-fg-mD1SrQ) almost entirely without input once the client agreed on the structure and chapters - but am equally comfortable editing collaboratively with colleagues, and thrive on the ideas and unexpected directions that a good collaborative relationship can provide.  
 
 Additionally, an essential part of the role of an editor is listening to and implementing feedback from clients, team members and other stakeholders, which has taught me the value of listening to all contributions.  
 
-I am more than capable of editing on my own - [I edited this 32 minute documentary](https://youtu.be/x-fg-mD1SrQ) almost entirely without input once the client agreed on the structure and chapters - but am equally comfortable editing collaboratively with colleagues, and thrive on the ideas and unexpected directions that a good collaborative relationship can provide.
+Having made videos for a variety of clients from different industries and sectors, I have demonstrated a strong ability to quickly absorb and understand information relating to subjects where I have limited or non-specialist knowledge. Because of this, I feel I am particularly capable of distilling and communicating complex information to wide audiences.  
 
 In my previous role at Speakeasy Productions, and also from my time as a software developer at Agilent in Germany, I have gained valuable experience working across multi-disciplinary teams, and in teams with colleagues whose first language wasn't English. In particular, at Agilent each member of my development team took turns to host our team meetings, which required clear communication, patient and respectful interactions with colleagues, and encouraged me to express ideas using jargon-free language. I also occasionally hosted these meetings in German.  
 
 ### Adaptability  
-I am comfortable identifying knowledge gaps in my own understanding, and am willing to adapt to new ways of working. Throughout my career I have consistently sought new learning opportunities; for example, I have never formally studied any aspects of film making, I mainly learned by doing.  
+I am comfortable identifying knowledge gaps in my own understanding, and am willing to adapt to new ways of working. Throughout my career I have consistently sought new learning and development opportunities; for example, I have never formally studied any aspects of film making, I mainly learned by doing.  
 
 Additionally, over the years I have taught myself motion graphics techniques, as well as sound design and basic music composition.  
 
