@@ -84,6 +84,6 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 [response]: README.md
 [links_page]: LINKS.md
 [cv]: Peter_Smith_CV.pdf
-[letter]: Peter_Smith_BG_cover_letter.pdf
+[letter]: Peter_Smith_DT_cover_letter.pdf
 [showreel]: https://youtu.be/j3nW8g24qeg
 [youtube_playlist]: https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN
