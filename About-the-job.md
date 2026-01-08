@@ -80,10 +80,10 @@ We will endevour to get back to everyone who applies either way.
 ---
 >[!IMPORTANT]  
 To do:
-> * Draw out the critical skills they're looking for such that I can edit my BG README file to match it without changing too much (e.g. skills analagous to BG "Storytelling", "Adaptability", etc).
+> * ~~Draw out the critical skills they're looking for such that I can edit my BG README file to match it without changing too much (e.g. skills analagous to BG "Storytelling", "Adaptability", etc).~~
 > * Where necessary and relevant to the skills they're looking for, add a wee bit more to the video links page descriptions, showcasing what I did specifically, perhaps how much client involvment there was, how much colleague involvement, etc.
 > * Either rewrite the top level category descriptions in the video links page (e.g. "Examples of common categories of films"), or else write something else underneath to make it more explanatory.
-> * Change text on video links page to "back to About Me" page, or something else, like "Main page"...?
-> * Make the letter less officious sounding - at least address it to Tim directly...?
-> * Change details of the letter, e.g. he knows I worked for Speakeasy productions so say that instead of "in-house agency editor"
-> * Add the Mogwai youtube link to the letter?
+> * ~~Change text on video links page to "back to About Me" page, or something else, like "Main page"...?~~
+> * ~~Make the letter less officious sounding - at least address it to Tim directly...?~~
+> * ~~Change details of the letter, e.g. he knows I worked for Speakeasy productions so say that instead of "in-house agency editor"~~
+> * ~~Add the Mogwai youtube link to the letter?~~

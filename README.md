@@ -3,7 +3,7 @@
 # Peter Smith editor
 ## About me
 
-I am an experienced video editor looking to further develop my career. I am seeking a role in an organisation that will offer me interesting career development opportunities and progression, and I believe Baillie Gifford will give me those opportunities.
+I am an experienced video editor looking to further develop my career. I am seeking a role in an organisation that will offer me interesting career development opportunities and progression, and I believe Digital Triangle will give me those opportunities.
 
 ## Experience / Technical and Professional skills  
 
@@ -80,6 +80,6 @@ I believe I would be a good fit for Baillie Gifford; I am highly skilled, motiva
 [response]: README.md
 [links_page]: LINKS.md
 [cv]: Peter_Smith_CV.pdf
-[letter]: Peter_Smith_BG_cover_letter.pdf
+[letter]: Peter_Smith_DT_cover_letter.pdf
 [showreel]: https://youtu.be/j3nW8g24qeg
 [youtube_playlist]: https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN

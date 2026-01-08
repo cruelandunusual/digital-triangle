@@ -1,4 +1,4 @@
-[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[YouTube playlist][youtube_playlist]
+[Back to main page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[YouTube playlist][youtube_playlist]
 
 # Video editing samples
 ## _Examples of common categories of films_
@@ -68,15 +68,16 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 > [Playlist of complete films](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)  
 > A YouTube playlist of complete videos made during my time as an inhouse editor.  
 > [Showreel](https://youtu.be/j3nW8g24qeg)  
-> A one minute showreel with some samples of work from the last few years.  
+> A one minute showreel with some samples of work from the last few years; the music has been edited with effects and processing added in Ableton Live and Adobe Audition.  
 
 ---
 
 ## _Noteworthy early career work_  
 >[The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
-I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
+> I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
+> For the live performance segments I was aided by an assistant camera operator. 
 ---
-[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[YouTube playlist][youtube_playlist]
+[Back to main page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[YouTube playlist][youtube_playlist]
 
 <!-- links -->
 
