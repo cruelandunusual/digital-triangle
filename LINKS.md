@@ -30,7 +30,7 @@ The client had a minimal graphics budget here; I used their abstract black cube 
 ### _Interviewees intercut seamlessly:_  
 >[Education Scotland - Outdoor Learning](https://youtu.be/rRa7cL7VpGE)  
 A transcript of this video might read as though only one person was speaking throughout, which is appropriate in this case since all the interviewees express the same opinion.  
-[NHS Education for Scotland - Mobile Skills Unit Testimonial](https://youtu.be/xj1KGAnKtWM) _(interviewees filmed during lockdown over Teams)_  
+[NHS Education for Scotland - Mobile Skills Unit Testimonial](https://youtu.be/xj1KGAnKtWM)  
 This is another example where the participants are closely intercut, at times seeming to continue each other's sentences.  
 
 ### _On-brand graphics:_  

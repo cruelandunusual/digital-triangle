@@ -28,8 +28,8 @@ Having edited professionally for 20 years, I am a highly adaptable editor with a
 #### Interviews  
 >I feel I have a particular strength for cutting interviews; when the material allows, I try to intercut the participants to seamlessly flow from one speaker to the next.  
 >For instance, a transcript of [this video for Education Scotland](https://youtu.be/rRa7cL7VpGE) might read as though only one person was speaking throughout.  
->[This NHS video](https://youtu.be/xj1KGAnKtWM) is another example where I used this technique effectively.  
->Obviously this technique isn't always appropriate, and I would never force it into a project where it doesn't work.
+>[This NHS video](https://youtu.be/xj1KGAnKtWM) is another example where I used this technique effectively, and it's peppered throughout [this Scottish Enterprise video](https://youtu.be/-x39hHLbghg) too, and [this Napier University case study](https://youtu.be/Cw7e0ic7Ey4).  
+>Obviously the technique isn't always appropriate, and I would never force it into a project where it doesn't work.
 
 #### Promos  
 >I am also experienced at cutting promos; [this event opening film for Scottish Enterprise](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x) has examples of [cutting to different shots on the beat](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43), and also having the action [synchronise with the beat](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) of some shots (the robot arm in this example, which moves in time to the music).  
@@ -42,6 +42,7 @@ Having edited professionally for 20 years, I am a highly adaptable editor with a
 #### Sound / Music  
 >I am also highly experienced in sound and music editing. [This video for the NHS](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG), recorded over Teams during the pandemic to inform the NHS workforce about workplace bereavement, has creative use of sound and music, inluding [reversed music to create an unsettling feeling](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) and music [used as a sound effect, to punctuate the nurse's story](https://youtu.be/s7G6mfRpoCU?si=h7mCs0CxmZIC8Cp8&t=470).  
 >Also, in [this video for the Scottish Courts and Tribunal Services](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139), I replaced the synthesiser in the Audio Network track that begins at 02:20 with an alternative synth sound from Ableton Live, when one of my colleagues thought the sound of the original was overbearing.  
+>[This short video](https://youtu.be/18Tn6iE40oI) for Stagecoach has eight different tracks, either punctuating implicit chapters or used to highlight personality differences in the speakers.
 
 
 > [!NOTE]  
