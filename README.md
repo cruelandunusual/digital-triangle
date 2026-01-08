@@ -48,7 +48,7 @@ Having edited professionally for 20 years, I am a highly adaptable editor with a
 >At times I have worked to challenging deadlines; [this annual review video for Scottish Enterprise](https://youtu.be/OnoYiEk2ZnE) was recut in a single night _(!)_ when the client didn't like the v1 of the original brief. The re-edit repurposed the original footage (the black and white shots of SE employees) along with shots from SE's library and some stock shots. The entire re-edit was constructed around Max Richter's Recomposition of Vivaldi's Summer, to dramatic effect.  
 
 ### Team working  
-I am more than capable of editing on my own - [I edited this 32 minute documentary](https://youtu.be/x-fg-mD1SrQ) almost entirely without input once the client agreed on the structure and chapters - but am equally comfortable editing collaboratively with colleagues, and thrive on the ideas and unexpected directions that a good collaborative relationship can provide.  
+I am more than capable of editing on my own - [I edited this 32 minute documentary](https://youtu.be/x-fg-mD1SrQ) almost entirely without input once the client agreed on the structure and chapters - but am equally comfortable editing collaboratively with colleagues, and thrive on the ideas and unexpected tangents that a good collaborative relationship can provide.  
 
 Additionally, an essential part of the role of an editor is listening to and implementing feedback from clients, team members and other stakeholders, which has taught me the value of listening to all contributions.  
 
