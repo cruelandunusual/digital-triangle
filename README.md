@@ -2,7 +2,7 @@
 
 # Peter Smith editor  
 ## About me  
-I am an experienced video editor looking to further develop my career with a role in an organisation that will offer me interesting career development opportunities and progression, and I believe Digital Triangle will give me those opportunities.  
+I am an experienced video editor looking to further develop my career with a role in a company that will offer me interesting career development opportunities and progression, and I believe Digital Triangle will give me those opportunities.  
 
 ## Experience / Technical and Professional skills  
 From 2008 until 2024 I was a full-time in-house editor - first at Republic Productions (2008-2014), then at Speakeasy Productions (2014-2024).  
