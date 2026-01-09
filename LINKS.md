@@ -65,7 +65,7 @@ I used the audio of the hot air balloons at the start for the astronaut's breath
 
 ## Playlist of other work  
 > [YouTube Playlist](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)  
-A YouTube playlist with more videos made during my time as an inhouse editor.  
+A YouTube playlist with more videos made during my time as an in-house editor.  
 [Showreel](https://youtu.be/j3nW8g24qeg)  
 A one minute showreel with some samples of work from the last few years.  
 
